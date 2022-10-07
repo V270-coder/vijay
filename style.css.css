@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+    border-radius: 1px;
+}
+h1{
+    text-align: center;
+    font-size: 51px;
+    color: #3e3b3b;
+    margin-bottom: -60px;
+}
+p{
+    line-height: 1.74;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(44, 41, 41);
+    text-align: justify;
+    padding: 45px;
+    margin-top: 11px;
+}
+.c-box{
+    padding-top: 38px;
+    margin-top: 49px;
+    padding-bottom: 87px;
+    background-color: #f6f2ed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('https://www.avestantechnologies.in/assets/images/bg/title-bar-01-bg.webp');
+}
+.c{
+    text-align: center;
+}
+.text-center{
+    margin-top: 51px;
+    padding: 26px;
+}
+h2{
+    font-size: 28px;
+}
+.primary-colour{
+    color: blue;
+}
+.vijay{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    grid-gap: 30px;
+   flex-basis: calc(33.3333px-40px);
+   margin: 0px;
+   padding: 250px;
+   border-radius: 1px;
+ 
+   
+}
+.text-center-1{
+    box-shadow: 0 18px 40px rgb(51 51 51 / 10%);
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    padding: -2px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 62px;
+}
+.heading{
+ font-weight: 900;
+ line-height: 1.25;
+ margin-bottom: -33px;
+}
+h3{
+    font-size: 27px;
+}
+.text-center-1 i{
+    left: 50%;
+    bottom: 0px;
+    transform: translate(-30%,50%);
+    height: 59px;
+    width: 60px;
+    font-size: 56px;
+    margin-top: -30px;
+    color: #d2a98e;
+}
+.text-center-1:hover i{
+    color:rgb(92, 92, 236)
+}
+p12{
+color: red;
+width: 20px;
+height: 20px;
+border-style: solid;
+    border-width: 5px;
+
+}
